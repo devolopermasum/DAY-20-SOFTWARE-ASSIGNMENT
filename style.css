@@ -1,0 +1,36 @@
+.container{
+    width: 1000px;
+    margin: auto;
+}
+.header{
+    background-color:#e3f2fd ;
+}
+.header-logo img{
+    width: 50px;
+}
+.header-bottom ol{
+    background-color: #e9ecef;
+}
+.all-item .aleart-section{
+    background-color: #d4edda;
+}
+.accordion-button:focus{
+    box-shadow: none;
+    background-color: #f7f7f7;
+}
+.accordion-item button:hover{
+    text-decoration: underline;
+}
+.accordion-button{
+    background-color:#f7f7f7 ;
+}
+.accordion-item button::after{
+    display: none;
+}
+.footer{
+    background-color:#17a2b8 ;
+    font-size: 15px;
+}
+.footer h3{
+    font-size: 20px;
+}
